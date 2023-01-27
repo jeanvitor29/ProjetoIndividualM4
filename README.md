@@ -20,4 +20,4 @@ Sim, são elas: professor e disclipina.
 Os principais campos são as chaves primárias (ID_aluno, ID_curso, ID_turma) e estrangeiras das entidades, sendo essas últimas responsáveis pelas relações. 
 
 ### Como essas entidades estão relacionadas?
-Da seguinte forma: Um aluno pode estar matriculado em um curso que contém uma turma ou mais. Os Alunos pertence a turma.
+Da seguinte forma: Um aluno pode estar matriculado em um curso que contém uma turma ou mais. O Aluno pertence a turma.
