@@ -2,7 +2,8 @@
 Projeto individual do quarto módulo do curso de WebDev Full Stack da Resilia. A proposta foi modelar um banco de dados para o novo sistema de acompanhamento para a Resilia.
 
 **Modelo conceitual**
-![projeto do modulo4](https://user-images.githubusercontent.com/114100988/215172737-8cb820a4-c447-40f3-8f23-ef0a17f8a64a.png)
+![PROJETOINDIVIDUALM4](https://user-images.githubusercontent.com/114100988/215180212-dd1b1bcd-0d91-473e-b58e-e8b46318bfcd.png)
+
 
 
 
