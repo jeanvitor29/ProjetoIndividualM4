@@ -11,8 +11,7 @@ Projeto individual do quarto módulo do curso de WebDev Full Stack da Resilia. A
 - XAMPP
 - Br Modelo Web
 
-## Execução
-Carregue o "modelo_fisico.sql" no phpMyAdmin.
+
 
 ### Existem outras entidades além dessas três?
 Sim, são elas: professor e disclipina.
