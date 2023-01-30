@@ -7,9 +7,7 @@ Projeto individual do quarto módulo do curso de WebDev Full Stack da Resilia. A
 
 
 
-## Tecnologias utilizadas
-- MySQL
-- XAMPP
+## Tecnologia utilizada
 - Br Modelo Web
 
 
